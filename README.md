@@ -1,7 +1,7 @@
 # Cruelty-Beyond-Words
 ## NOTICE OF UNAUTHORIZED THIRD-PARTY MODIFICATIONS
 
-**Repository Owner:** Rok Bastl (SkyBeamProject)  
+**Account Holder:** Rok Bastl (SkyBeamProject)  
 **Date of Discovery:** April 2026  
 **Status:** Evidence Preserved — Under Review
 
@@ -9,23 +9,35 @@
 
 ## What This Repository Documents
 
-This repository serves as a **public record and evidence archive**.
+This repository is a **public record and evidence archive**.
 
-It documents that one or more repositories under the `SkyBeamProject` GitHub account were **modified without the knowledge, authorization, or consent of the account owner**, Rok Bastl.
+It documents that one or more repositories under the `SkyBeamProject` GitHub account were **modified without the knowledge, authorization, or consent** of Rok Bastl.
 
 Modifications appear to have been made by **unauthorized third parties**, who used AI agent tooling to carry out changes.
 
 These modifications include but are not limited to:
 - Creation of new branches (e.g. `claude/add-overview-docs-*`)
-- Commits of AI-assisted content to repositories without owner consent
+- Commits of AI-assisted content to repositories without the account holder's knowledge
 - Changes to repository default branches
 - Automated bot activity generating security vulnerabilities across public repositories
 
 ---
 
+## On the Nature of This Work
+
+The work documented and preserved here does not belong to any entity, institution, or country.
+
+It belongs to people — as individuals.
+
+It was created in good faith, freely, and with the intent that it serve those who might benefit from it. It must not be used to harm, exploit, or control.
+
+The concern here is not ownership. The concern is that someone — without asking, without consent, and without accountability — reached in and changed things. That is what is being documented.
+
+---
+
 ## Affected Repositories (Locked Down)
 
-The following repositories have been made **private** to preserve evidence while preventing further unauthorized access:
+The following repositories have been made **private** to preserve evidence and prevent further unauthorized access:
 
 | Repository | Nature of Unauthorized Activity | Date Detected |
 |---|---|---|
@@ -37,21 +49,10 @@ The following repositories have been made **private** to preserve evidence while
 
 ## For Further Information
 
-For additional context, documentation, and the owner's full account of events, refer to the repository:
-
-> **[Cruelty-Beyond-Words](https://github.com/SkyBeamProject/Cruelty-Beyond-Words)** — you are here.
-
 All affected repositories contain a `NOTICE.md` file cross-referencing this record.
 
----
-
-## Legal Notice
-
-All original intellectual property, content, and work created by Rok Bastl and stored within the `SkyBeamProject` GitHub account remains the exclusive property of Rok Bastl.
-
-Unauthorized modification of repositories constitutes a violation of the account owner's rights. This repository preserves a timestamped public record of such violations.
-
-**The owner reserves all rights.**
+> You are currently in the right place: **[Cruelty-Beyond-Words](https://github.com/SkyBeamProject/Cruelty-Beyond-Words)**
 
 ---
+
 *Last updated: April 28, 2026*
